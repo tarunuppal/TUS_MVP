@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+body,html{
+	width:100%;
+	height:100%;
+	background-color:#3d405b !important;
+	margin:0;
+	padding:0;
+}
+.background{
+	width:100%;
+	height:100%;
+}
+.btn-classic{
+	color:#fff;
+	background-color:#81b29a;
+}
+.login-body{
+	margin:180px auto;
+	background: rgba(255, 255, 255, 0.1);
+	width:100%;
+	height:auto;
+	text-align:left;
+}
+.login-form{
+	padding:30px;
+}
+.login-form h4{
+	font-size:24px;
+	color:#fff;
+	margin-bottom:20px;
+}
+.login-form input{
+	width:100%;
+	background-color:#3d405b;
+	border:none;
+	color:#fff;
+}
+.welcome{
+	background-color:#e07a5f;
+	color:#fff;
+}
+.welcome h4{
+	padding:30px 10px;
+	margin:0;
+}
+.menu{
+	background-color:#3d405b;
+}
+.menu ul{
+	list-style-type:none;
+	padding:0;
+}
+.menu ul li{
+	border-bottom:1px solid rgba(0,0,0,0.2);
+	
+}
+.menu ul li a{
+	text-decoration:none;
+	color:#f2cc8f;
+	padding:15px;
+}
+.menu ul li a:hover{
+	background-color:#81b29a;
+	color:#fff;
+}
+nav .nav.navbar-inverse{
+	background-color: #3d405b;
+}
+.content{
+	background-image:url('images/concrete_seamless.png');
+	min-height:572px;
+}
+.top-header{
+	background-color:#FFFFFF;
+	text-align:left;
+	color:#fff;
+	height: 80px;
+	padding: 15px;
+}
+.top-header .logo{
+	height: 50px;
+}
+.top-header h2{
+	padding:10px;
+}
+.top-header a{
+	margin-top:10px;
+}
+.page-title{
+	padding:20px 20px;
+}
+.Box-view{
+	background-color:#fff;
+	height:auto;
+	border:1px solid #efefef;
+}
+.Box-heading{
+	background-color:#dcdcdc;
+	
+}
+.Box-heading h4{
+	font-size:24px;
+	padding:20px;
+	margin:0;
+}
+.Box-body{
+	min-height:350px;
+}
+.new-product{
+	min-height:530px;
+}
+.Box-body .product-form{
+	margin-top:20px;
+	height:auto;
+	background-color:#fff;
+}
+.mb-50{
+	margin-bottom:50px;
+}
+.productcategory-form{
+	
+	padding:20px;
+}
+.productcategory-form input{
+	margin-bottom:20px;
+}
+.link1{
+	padding:0px 20px;
+}
+.link2{
+	padding:0px 20px;
+}
+.link3{
+	
+	padding:0px 20px;
+}
+.link4{
+	padding:0px 20px;
+}
+.listIcon{
+	width:60px;
+}
